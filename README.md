@@ -1,7 +1,7 @@
 # Maitiathal-Tool
-this is a multi tool made by TXC leaks
+this is a multi tool made by TXC leaks only start with setup!!
 Discord link: https://discord.gg/MrrPPz2KeB
---------------------------------------------------------------
+---------------------------------------
 it have password
 
 Password: Adminstrator
@@ -12,3 +12,14 @@ Password: Adminstrator
 tool
 ![Skærmbillede 2025-06-24 171946](https://github.com/user-attachments/assets/90ee3e80-a004-4a0c-8274-80b487ce4255)
 
+---------------------------------------
+
+IP Lookup 💡
+File Search 📁
+System Info 🏬
+Disk Usage 💾
+Password Generator 🔒
+Process Viewer 🫡
+System Uptime ⏳
+Port Scanner 💻
+Exit 🛫
