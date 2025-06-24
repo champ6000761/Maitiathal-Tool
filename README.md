@@ -15,11 +15,19 @@ tool
 ---------------------------------------
 
 IP Lookup 💡
+
 File Search 📁
+
 System Info 🏬
+
 Disk Usage 💾
+
 Password Generator 🔒
+
 Process Viewer 🫡
+
 System Uptime ⏳
+
 Port Scanner 💻
+
 Exit 🛫
